@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sherwinterunez/rn-fcm/issues"
   },
-  "homepage": "https://github.com/sherwinterunez/rn-fcm#readme"
+  "homepage": "https://github.com/sherwinterunez/rn-fcm#readme",
+  "dependencies": {
+    "tween-functions": "^1.2.0"
+  }
 }
