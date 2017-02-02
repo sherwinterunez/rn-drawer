@@ -1,0 +1,24 @@
+{
+  "name": "rn-drawer",
+  "version": "0.1.0",
+  "description": "Drawer for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sherwinterunez/rn-fcm.git"
+  },
+  "keywords": [
+    "drawer",
+    "react",
+    "native"
+  ],
+  "author": "Sherwin Terunez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sherwinterunez/rn-fcm/issues"
+  },
+  "homepage": "https://github.com/sherwinterunez/rn-fcm#readme"
+}
